@@ -13,13 +13,13 @@ body {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: rgb(24, 24, 31);
+    background-color: #262420;
     color: rgb(238, 238, 238);
   }
 }
 
 a {
-  color: #2563eb;
+  color: #e35a32;
   text-decoration: none;
 }
 
